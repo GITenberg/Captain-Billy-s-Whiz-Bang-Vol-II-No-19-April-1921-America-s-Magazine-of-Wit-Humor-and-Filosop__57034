@@ -1,5 +1,8 @@
 _repo: Captain-Billy-s-Whiz-Bang-Vol-II-No-19-April-1921-America-s-Magazine-of-Wit-Humor-and-Filosop__57034
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 57034-h/images/cover.jpg
 creator:
   author:
     agent_name: Various
@@ -11,6 +14,8 @@ creator:
     gutenberg_agent_id: '48512'
     url: http://www.gutenberg.org/2009/agents/48512
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57034#Captain-Billy-s-Whiz-Bang-Vol-II-No-19-April-1921-America-s-Magazine-of-Wit-Humor-and-Filosop_
 gutenberg_issued: '2018-04-23'
 gutenberg_type: Text
 identifiers:
